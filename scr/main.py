@@ -297,4 +297,3 @@ janela.mainloop()
 # E-mail e se senha do login profissional
 #  Clínicaaba@gmail.com
 #  abaImersão#
-
