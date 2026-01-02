@@ -24,8 +24,8 @@ def informacao_paciente(nome_paciente): # função c as informações do pacient
 def informacao_profissional(email_prof, senha_prof): #função para informação do profissional
     
     #usuário e senha padrão para login
-    username_padrao = "Clínicaaba@gmail.com"
-    senha_padrao = "abaImersão#"
+    username_padrao = "Clínica@gmail.com"
+    senha_padrao = "Imersão#"
 
     #se o usuário e senha digitados forem iguais aos pré estabelecidos ai libera a entrada
     if email_prof == username_padrao and senha_prof == senha_padrao:
@@ -295,5 +295,5 @@ janela.mainloop()
 
 
 # E-mail e se senha do login profissional
-#  Clínicaaba@gmail.com
-#  abaImersão#
+#  Clínica@gmail.com
+#  Imersão#
